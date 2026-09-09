@@ -1,0 +1,5 @@
+  4 Datatypes would be String, Floats, booleans, and integers.  
+    a code repository is a digital space for storing files and folders. 
+    A computer keyboard is an input because when you type leters on that keyboard it will pop up on the screen. 
+    A variable  is a container you can store data into and also you can name it however you want, als you can start with a letter but never a number its a rule you must oblige to. 
+     A varaible can be mixed with letters but not symbols.
