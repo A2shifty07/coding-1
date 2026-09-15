@@ -50,5 +50,5 @@ print(3 > 1 and 100 > 50) # this would come out as true
  print(3 > 1 or 100 > 50) 
 
 # NOT- The  "opposite day" operator, it will reverse the result of the logical operators 
-print (not(3 > 1 and 100 > 50)) 
+print(not(3 > 1 and 100 > 50)) 
 # this would come out to be false 
