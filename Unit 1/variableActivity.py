@@ -38,5 +38,5 @@ diffrentdrinks3=
 
 # snake case- when creating a varaible using snake case we use a underscore symbol to space out each new word the reason why its called snake case is bc the underscore represents a sanke on the ground. new_word_ 
 
-Username_for_new_instagram_accounts = 0
+ # Username_for_new_instagram_accounts = 0
 password_recovery_tiktok_account = 0
