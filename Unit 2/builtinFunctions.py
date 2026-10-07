@@ -4,7 +4,7 @@
 # Built- in function - a code block of 
 # instruction for a computer to follow 
 # that was already written for us. 
-# PRE-WRITTENcode instructions 
+# PRE-WRITTEN code instructions 
 
 print('hello') 
 year = input("what yaer is it?")
