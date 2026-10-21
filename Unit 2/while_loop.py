@@ -26,11 +26,32 @@ def guessingGame():
     while userGuess != correctanswer:
         print("sorry that's incorrect")
         print("try again...")
-        attempts += 1
-        print("number of attempts: " + str(attempts))
+        attempts -= 1
+        print("number of attempts left: " + str(attempts))
         userGuess = int(input("please type in a number to guess: "))
 
     print("congratulations, you got it correct!")
 
+guessingGame() 
 
-guessingGame()
+
+
+def passwordreset():
+    correctanswer = "IlikeCars456"
+    userGuess = input("please type in a password to guess: ")
+    attempts = 4
+
+    while userGuess != correctanswer and attempts > 0:
+        print("sorry that's incorrect")
+        print("try again...")
+        attempts -= 1
+        print("number of attempts left: " + str(attempts))
+        if attempts > 0:
+            userGuess = input("please type in a password to guess: ")
+
+    if attempts == 0 and userGuess != correctanswer:
+        print("sorry you have no more attempts left, you have been locked out of your account")
+    else:
+        print("Welcome! You have been unlocked into your account: ")
+
+passwordreset()
