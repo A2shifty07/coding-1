@@ -17,7 +17,7 @@ def vending_machine():
         user_input = input("Enter vending machine code: ").upper()
 
         # Check for quit condition
-        if user_input == "Q":
+        if user_input == "q":
             print("Stopping vending machine. Goodbye!")
             break
 
@@ -58,7 +58,6 @@ def dice_game():
 
 
 # monday, October 26, 2026 
-import random
 
 def rock_paper_scissors():
     choices = {'r': 'rock', 'p': 'paper', 's': 'scissors'}

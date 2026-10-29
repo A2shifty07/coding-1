@@ -17,4 +17,4 @@ def compareifastudenthashonorroll():
     absences = int(input("how many days have you missed: "))
     print(" please type in absences: ")
     print(grade > 90 and absences < 5) 
-compareifastudenthashonorroll():
+compareifastudenthashonorroll()
