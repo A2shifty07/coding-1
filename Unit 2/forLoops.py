@@ -16,7 +16,7 @@ for number in range(1,500):
 # list a data colllection type that acts as a container for multiple data types a way to 
 # list multiple pieces of data in 1 place.
 
-grocerylist = ["apples", "oranges", "water", "chips"] 
+grocerylist = ["apple", "oranges", "water", "chips"] 
 
 fooditem_1 = "apple"
 
