@@ -47,7 +47,7 @@ print(3 > 1 and 100 > 50) # this would come out as true
 
  # OR - checks if only 1 condition is true. if yes, 
  # the final result will be true 
- print(3 > 1 or 100 > 50) 
+print(3 > 1 or 100 > 50) 
 
 # NOT- The  "opposite day" operator, it will reverse the result of the logical operators 
 print(not(3 > 1 and 100 > 50)) 
