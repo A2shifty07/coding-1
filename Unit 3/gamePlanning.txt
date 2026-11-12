@@ -1,5 +1,35 @@
-1. Okay, so picture this — you and your buddies are stuck on a bunch of wobbly flying islands way up in the clouds, and everything’s kinda magical but also kinda scary. You get to build silly airships out of whatever junk you find, like giant teapots or banana-shaped balloons, and zoom around looking for treasure. The islands keep changing, so one day there’s a candy forest and the next it’s full of grumpy cloud monsters. It’s basically a big sky playground where you never know what’s gonna happen next! 
+1. Okay, so picture this — you and your buddies are stuck on 
+a bunch of wobbly flying islands way up in the clouds, and everything’s 
+kinda magical but also kinda scary. You get to build silly airships out of whatever
+ junk you find, like giant teapots or banana-shaped balloons, and zoom around
+  looking for treasure. The islands keep changing, so one day there’s a candy forest 
+  and the next it’s full of grumpy cloud monsters. It’s basically a big sky playground
+   where you never know what’s gonna happen next! 
 
-2. The game control scheme will be WASD Movement sits, so on the left stick or WASD, while the right stick or mouse handles camera and steering. Primary actions like jumping, using tools, and gliding stay on A/Space and the main trigger or mouse buttons, with building mapped to shoulder buttons or nearby keys for quick access. Flying uses the same layout—lift on jump, directional control on the left hand, and boost/brake on triggers—so players can switch between exploring islands and piloting their silly airships seamlessly. 
+2. The game control scheme will be WASD Movement sits, so 
+on the left stick or WASD, while the right stick or mouse handles
+ camera and steering. Primary actions like jumping, using tools, and
+  gliding stay on A/Space and the main trigger or mouse buttons, with
+   building mapped to shoulder buttons or nearby keys for quick access. 
+   Flying uses the same layout—lift on jump, directional control on the left hand,
+    and boost/brake on triggers—so players can switch between exploring islands
+     and piloting their silly airships seamlessly. 
 
-3. The two game objects I will need in my game willl include the Both Player and Enemy GameObjects share core Unity attributes and methods because they inherit from the GameObject class. Their differences come from how you configure tags, layers, and attached components (movement scripts for Player, AI scripts for Enemy).
+3. The two game objects I will need in my game willl include the Both Player
+ and Enemy Game Objects share core Unity attributes and methods because they
+  inherit from the GameObject class. Their differences come from how you configure
+   tags, layers, and attached components (movement scripts for Player, AI scripts for Enemy)
+. 
+#Core elements of my game
+
+A whimsical, colorful, soft‑fantasy visual styl. Also paired with playful,  
+airy, toy‑like audio best fits your magical flying‑island 
+worl. with silly and childish mechanics airships. 
+
+The primary goal is that a fun time and explore the adventures of this fictional world.
+The audience is to trigger the younger people to have them indured into art.
+The world is full of beautiful things,so why not find it in a game to also entertain you. 
+
+There arent no limitations infinite worlds like the infinite roatation. 
+
+
