@@ -1,0 +1,20 @@
+A ragtag cast of over-the-top anime heroes and absurd villains battle in chaotic arenas 
+where slapstick meets high-octane martial arts. Every punch lands with both explosive 
+ power and ridiculous comedic flair,
+ turning each fight into a spectacle of laughter and adrenaline. 
+
+
+ 2. There will be welcome screen to introduce what charcteres is included in the game 
+ so the people will get pulled into whats interesting. 
+
+ 3. The game objects in the game would be random chance of powerups popping up after every 20 
+ seconds when the fighgt starts and special weapons like mario to deal more damage on that 
+ opponet. 
+
+ 4. The buttons will be the usual for computers and Pc WASD to move left,right,jump, crouch 
+ And for consoles there will also be instructions and tutorials how to play and fight and use combos. 
+
+ 5. The enemy  or obstacles objects they shoiuld behave with funnny comments about eachother and just making fun of eachother then fight it out to whoever wins/whoever health bar goesdown to 0 every 3 rounds. 
+
+ 6. The win and lose conditions of my game is that there is 3 rounds 
+ whoever has the most wins after the 3 rounds wins, When the health bar hits 0 you lose which leads to the CPU winning or another play or you win. 
