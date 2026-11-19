@@ -8,7 +8,7 @@ where slapstick meets high-octane martial arts. Every punch lands with both expl
  so the people will get pulled into whats interesting. 
 
  3. The game objects in the game would be random chance of powerups popping up after every 20 
- seconds when the fighgt starts and special weapons like mario to deal more damage on that 
+ seconds when the fight starts and special weapons like mario to deal more damage on that 
  opponet. 
 
  4. The buttons will be the usual for computers and Pc WASD to move left,right,jump, crouch 
